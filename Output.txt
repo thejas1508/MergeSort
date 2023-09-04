@@ -1,0 +1,11 @@
+OUTPUT:
+    
+Merge Sort
+enter any 5 numbers []
+4
+5
+6
+2
+1
+Unsorted List [4, 5, 6, 2, 1]
+Sorted List [1, 2, 4, 5, 6]    
